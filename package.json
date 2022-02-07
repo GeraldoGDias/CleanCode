@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/geraldogoncalvesdias/CleanCode/issues"
   },
-  "homepage": "https://github.com/geraldogoncalvesdias/CleanCode#readme"
+  "homepage": "https://github.com/geraldogoncalvesdias/CleanCode#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.0.7"
+  }
 }
